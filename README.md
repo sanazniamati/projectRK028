@@ -10,4 +10,5 @@ It provides declarative and reactive bindings to the [Konva Framework](https://k
 ![Demo](./img.png)
 
 **How To change mouse cursor with react-Konva framework ?**
+
 **Instructions: Mouseover each pentagon and see how cursor is changing**
